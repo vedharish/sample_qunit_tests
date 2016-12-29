@@ -1,0 +1,17 @@
+{
+  "name": "sample_qunit_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "browserstack.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node browserstack.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserstack-runner": "^0.4.4"
+  }
+}

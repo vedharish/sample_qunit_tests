@@ -1,0 +1,14 @@
+{
+    "username": "BROWSERSTACK_USERNAME",
+    "key": "BROWSERSTACK_ACCESS_KEY",
+    "test_path": [ "test/index.html", "test/sample.html" ],
+    "test_framework": "qunit",
+    "browsers": [
+        {
+            "browser": "firefox",
+            "browser_version": "latest",
+            "os": "OS X",
+            "os_version": "Sierra"
+        }
+    ]
+}
